@@ -1,0 +1,33 @@
+{
+    "nombre":"Jose",
+    "edad": 43,
+    "profesion":"Ingeniera de Software",
+    "intereses": ["programación", "tecnología", "música"],
+    "descripcion":"Soy una ingeniera de software apasionada por la tecnología y la música. Me encanta aprender cosas nuevas y compartir mis conocimientos con los demás. Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalmente.", 
+    "habilidades": {
+        "programacion": ["Java", "Python", "JavaScript"],
+        "idiomas": ["Español", "Inglés"]
+    },      
+}
+{
+    "nombre":"Agustina",
+    "edad": 25,
+    "profesion":"Diseñador Gráfico",
+    "intereses": ["diseño", "arte", "fotografía"],
+    "descripcion":"Soy una diseñadora gráfica con una gran pasión por el arte y la fotografía. Me encanta crear cosas nuevas y explorar diferentes estilos y técnicas. Siempre estoy buscando inspiración en el mundo que me rodea.", 
+    "habilidades": {
+        "diseño": ["CapCut", "Illustrator", "Canva"],
+        "idiomas": ["Español", "Francés"]
+    }
+}
+{
+    "nombre":"Fernando",
+    "edad": 42,
+    "profesion":"Músico",
+    "intereses": ["música", "composición", "tecnología"],
+    "descripcion":"Soy un músico apasionado por la composición y la tecnología. Me encanta experimentar con diferentes sonidos y estilos musicales. Siempre estoy buscando nuevas formas de expresar mi creatividad a través de la música.", 
+    "habilidades": {
+        "musica": ["guitarra", "piano", "composición"],
+        "idiomas": ["Español", "Italiano"]
+    }
+}

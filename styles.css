@@ -1,0 +1,27 @@
+
+
+div.navegacion{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    background-color: #605f5f;
+}
+nav{
+    align-items: right;
+    height: 100%;
+}
+.navegacion a{
+    list-style: none;
+    padding: 10px;
+    text-decoration: none;
+    margin-right: 5px;
+    color: #f6f6f6;
+    border-radius: 5px;
+    background-color: #ec5a00;
+    overflow: hidden;
+}
+nav a:hover{
+    background-color: #fc9c4d;
+    color: #fdfdfd;
+}
